@@ -15,4 +15,4 @@ Through this project, I gained hands-on experience with:
 
 ## 👩‍💻 Developed By
 Coded by Işıl Ceren Satıcı  
-[LinkedIn](https://www.linkedin.com/in/isilcerensatici) | [GitHub](https://github.com/isilcerensatici)
+[LinkedIn](https://www.linkedin.com/in/isil-ceren-satici) | [GitHub](https://github.com/isilcerensatici)
